@@ -23,4 +23,4 @@ A web application built with Django, a high-level Python web framework that enco
 
 1. **Clone the repository:**
    ```bash
-   
+   https://github.com/Ryan-09/EVENT_MANAGER_3.git
